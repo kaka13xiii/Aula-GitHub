@@ -1,0 +1,23 @@
+coloque a descrição de cada um dos seguintes comandos e faça uma atualização no github
+
+git status -> Mostra o estado atual do repositório: quais arquivos foram modificados, adicionados ou ainda não estão sendo monitorados.
+
+git add. -> Adiciona todas as alterações (arquivos novos e modificados) para a área de preparação (staging area), preparando para o commit.
+
+git commit -m "mensagens" -> Salva as alterações no histórico do repositório com uma mensagem descritiva explicando o que foi feito.
+
+git log -> Exibe o histórico de commits do projeto, mostrando autor, data e mensagem de cada alteração.
+
+git pull -> Baixa e integra as alterações mais recentes do repositório remoto (GitHub) para o seu repositório local.
+
+git push -> Envia seus commits locais para o repositório remoto (GitHub).
+
+git branch -> Lista todas as branches existentes e mostra em qual você está atualmente.
+
+git branch nome-da-branch -> Cria uma nova branch com o nome informado.
+
+git checkout -> Permite trocar de branch
+
+git init -> é utilizado para inicialização do rastreio de um novo repositório.
+
+depois de colocar a descrição de cada um desses comandos coloque a ordem em que devem ser executados para salvar as alterações no github

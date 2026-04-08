@@ -1,3 +1,6 @@
 Projeto iniciado 
 Adicionando nova funcionalidade
 edição realizada pelo github
+comandos aprendidos na aula de hoje
+git push->serve para enviar os arquivos da maquina para o github
+git pull->serve pra atualizar o repositorio local com github
