@@ -21,3 +21,7 @@ git checkout -> Permite trocar de branch
 git init -> é utilizado para inicialização do rastreio de um novo repositório.
 
 depois de colocar a descrição de cada um desses comandos coloque a ordem em que devem ser executados para salvar as alterações no github
+
+git add .
+git commit -m "mensagem"
+git push
